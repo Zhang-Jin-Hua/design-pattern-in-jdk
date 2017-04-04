@@ -1,4 +1,4 @@
-package com.qunar.mobile;
+package com.smart;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
